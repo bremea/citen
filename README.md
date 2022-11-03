@@ -1,4 +1,4 @@
-# citen
+# Citen
 Decentralized (P2P) and secure document sharing platform designed for citizen journalists, and written in Rust.
 
 ### Quick Disclaimer
