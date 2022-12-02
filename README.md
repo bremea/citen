@@ -1,3 +1,6 @@
+## Development status note
+On hold for a brief time while I work on [aionary](https://aionary.com). Will be resuming soon!
+
 # Citen
 Decentralized (P2P) and secure document sharing platform designed for citizen journalists, and written in Rust.
 
